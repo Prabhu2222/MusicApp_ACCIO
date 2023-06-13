@@ -1,0 +1,5 @@
+ListIterators helps you iterate over any list
+its declaration ->
+ArrayList<Node> list=new ArrayList<>();
+ListIterator<Node> itr=list.ListIterator();//iterator for iterating Node type element in Arraylist named list
+iterators generally points to the space between thee nodes
